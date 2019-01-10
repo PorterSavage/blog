@@ -6,6 +6,8 @@
 }
 
 .blog-style {
+  margin-top: 20px;
+  margin-bottom: 20px;
   float:left;
   color:blue;
   font-weight:bolder;
